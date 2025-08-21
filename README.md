@@ -29,15 +29,15 @@ This project follows industry best practices with modular architecture, authenti
 
 ## 🚀 Features
 
-✅ User Authentication & Authorization (JWT + Guards + Decorators)
-✅ Role-based Access Control (User, Admin, Super Admin)
-✅ Product & Category Management (CRUD)
-✅ Orders with snapshot order items
-✅ Cart & Wishlist (Optional)
-✅ Centralized Error Handling & DTO Validation
-✅ Database Relations with TypeORM
-✅ Order Analytics using Aggregation / QueryBuilder
-✅ Clean, Modular Folder Structure
+- User Authentication & Authorization (JWT + Guards + Decorators)
+- Role-based Access Control (User, Admin, Super Admin)
+- Product & Category Management (CRUD)
+- Orders with snapshot order items
+- Cart & Wishlist (Optional)
+- Centralized Error Handling & DTO Validation
+- Database Relations with TypeORM
+- Order Analytics using Aggregation / QueryBuilder
+- Clean, Modular Folder Structure
 
 ## 🛠 Tech Stack
 
